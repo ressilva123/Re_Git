@@ -1,0 +1,80 @@
+teste treinamento git
+
+colaboration - ajuda da rede pra ajudar descobrir os pontos
+allocation - culpa da rede
+
+Categoria de disputa
+prova de disputa
+Motivo de envio do questionário
+
+
+1.5 - RNF-XB-0009 - TRATAMENTO DE IMAGEM RECEBIDA
+anexar a imagem, documentos comprobatórios que a compra/transação foi realizada ou não.
+Validação - enviar/carregar a imagem e se a mesma é enviada para a VISA.
+
+questionário - verificar as condições de perfis, quem pode aprovar/negar. Levantar as outras situações q não são perceptíveis
+
+Visacasenumber - 
+
+verificar com a equipe dos comprovantes/imagens qual o fluxo, caminho
+Frente - de envio de imagens (cronograma)
+
+1.6 - RNF-XB-0024 - 
+Relatórios no XB - mainframe
+
+1.22 - 
+OUTGOING
+
+TC25 - layout de comunicação com a visa (arq.batch), envio para a bandeira
+faz uma compra e depois o retorno da compra - realiza o estorno da compra
+reversal credit voucher - está devolvendo dinheiro da bandeira
+
+TC06 - credit voucher -  
+TC26 - cancelamento do credit voucher
+TC25 - 
+
+1.24 - RNF-XB-0003 - TRATAR CHARGEBACK CREDIT VOUCHER (TC16) - INCOMING
+
+TC36 - REVERSAL DE CHARGEBACK SERÁ IDENTIFICADO ATRAVES DAS COLUNAS:
+TIPO DE PROCESSO: CREDIT VOUCHER
+CICLO: REVERSAL
+
+
+tc05 - COMPRA 
+TC15 - CHARGEBACK (temconfirmação , mas não considera uma TC)
+reversal - deixar de
+chargeback - problema de contestação com o emissor
+
+tc15 - te mandei chargeback -> tc35 - mas desconsidera
+tc25
+tc35
+
+tc06 - credit voucher
+tc16 - chargeback de credit voucher
+tc26 -Reversal credit voucher
+tc36 - reversal chargeback de credit voucher
+
+1.26 - SERÁ TESTADO NO REGRESSIVO (DESCONSIDERA NESSE PONTO)
+
+1.29 - NÃO SERÁ TESTADO GSFAZ
+
+1.33 - 
+validar na tabela no mainframe - os campo da DRS
+
+proximo 1.38 - item 
+
+emissor - cartão
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Clarizen
+meses de projeto - acima de 15 dias já conta como mês cheio
+wip -  percentual do que já andou no projeto - o faturamento é feito baseado nele
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
